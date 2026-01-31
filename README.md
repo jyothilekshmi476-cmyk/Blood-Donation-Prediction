@@ -64,6 +64,7 @@ Tree-based ML models for classification
 
 Accuracy
 F1 Score
+precision
 Classification metrics
 
 Statistical comparison tests (t-test used between models)
